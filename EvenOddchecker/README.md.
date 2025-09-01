@@ -1,0 +1,22 @@
+# Even / Odd Number Checker
+
+## 📌 Project Description
+This is a simple Python program that checks whether a given number is **Even** or **Odd**.  
+It takes user input, processes it, and then displays the result.
+
+---
+
+## 🚀 Features
+- Accepts user input (any integer).
+- Checks if the number is divisible by 2.
+- Prints whether the number is **Even** or **Odd**.
+- Beginner-friendly code with comments.
+
+---
+
+## 🖥️ How It Works
+1. The program asks the user to enter a number.
+2. It uses the modulus operator (`%`) to check divisibility by 2.
+   - If the remainder is 0 → the number is **Even**.
+   - Otherwise → the number is **Odd**.
+3. Prints the result.
