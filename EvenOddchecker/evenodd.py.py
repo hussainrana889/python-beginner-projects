@@ -1,0 +1,7 @@
+#A Program That Checks A Number is Even Or Odd!
+print("Welcome To The Even / Odd Checker!")
+num1 = int(input("Enter Your Number Please:"))
+if num1 % 2 == 0 :
+    print(f" \n {num1} is Even!")
+else :
+    print(f" \n {num1} is Odd!")
